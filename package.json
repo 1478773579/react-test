@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy":"http://localhost:4000",
-  "homepage": "",
+  "homepage": "https://1478773579.github.io/react-test",
   "dependencies": {
     "antd": "^4.1.4",
     "axios": "^0.19.2",
